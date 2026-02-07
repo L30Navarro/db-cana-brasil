@@ -2,7 +2,7 @@
 ## Este repositório, que foi modelado em PostgreSQL, contém a modelagem completa do banco de dados da produção de cana-de-açúcar no Brasil, utilizando dados públicos da Produção Agrícola Municipal (PAM/IBGE), abrangendo as safras de 2009 até 2022. O objetivo é centralizar, padronizar e estruturar informações de produção para análises estatísticas, exploração geográfica e consultas avançadas, observando os requisitos do sistema e as regras de negócio que orientam a modelagem desse banco de dados.
 
 ## Status do projeto
-Modelo relacional em fase de consolidação, com estrutura definida
+Modelo relacional consolidado, com estrutura definida
 e documentação disponível.
 
 ## Consultas SQL
